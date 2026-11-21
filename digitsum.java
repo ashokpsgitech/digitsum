@@ -10,6 +10,5 @@ public class digitsum {
             t/=10;
         }
         System.out.print("The digit sum for "+a+" is: "+sum);
-        sc.close();
     }
 }
